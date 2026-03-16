@@ -46,8 +46,8 @@ Projects focused on **evolutionary optimization techniques**.
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-M1k33y-181717?style=for-the-badge\&logo=github)](https://github.com/M1k33y)
-
+[![GitHub](https://img.shields.io/badge/GitHub-M1k33y-181717?style=for-the-badge&logo=github)](https://github.com/M1k33y)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihai%20Maciuc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-maciuc-24a4bb283/)
 ---
 
 ## 👀 Visitor Counter
